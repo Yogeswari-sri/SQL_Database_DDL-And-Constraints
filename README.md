@@ -61,14 +61,12 @@ CREATE TABLE Employees (
 );
 
 OUTPUT SCREEN
-<img width="1401" height="792" alt="S" src="https://github.com/user-attachments/assets/e9f6a602-1561-4ea7-a6fb-3e5ac8ea5d88" />
-
-CONSTRAINT and ALTERATION EXAMPLE OUTPUT
-<img width="1600" height="850" alt="Alteration" src="https://github.com/user-attachments/assets/7b686d69-8bf2-441d-aba5-409d602275fc" />
-<img width="1590" height="772" alt="CONSTRAINT" src="https://github.com/user-attachments/assets/ac17c4c4-cbfb-40be-b765-960de8cee125" />
+<img width="1591" height="811" alt="image" src="https://github.com/user-attachments/assets/ee084412-863f-4669-b7b1-a2429d3de4ce" />
 
 RELATIONSHIP DIAGRAM
-<img width="1588" height="818" alt="ERR employee_db" src="https://github.com/user-attachments/assets/5c666bad-0252-4511-be23-5bb855db1d92" />
+<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/825758a9-c4cf-4c9b-a950-6e2642b262fa" />
+
+
 
 
 
