@@ -39,9 +39,15 @@ It covers database creation, table management, and enforcement of integrity rule
   - `date_of_joining` defaults to current date if not specified  
   - Foreign Keys:  
     - `department_id` → Departments_Info  
-    - `location_id` → Locations  
+    - `location_id` → Locations
+   
+OUTPUT
+<img width="1591" height="781" alt="image" src="https://github.com/user-attachments/assets/4220f06a-93c5-4287-9e18-c3bca0bc06fc" />
+ 
+RELATIONSHIP OUTPUT
 
----
+---<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/44fd6574-65a9-46b8-a1d8-312b80c51c2c" />
+
 
 ## 📂 Example Script
 
